@@ -4,7 +4,6 @@ import CardList from "./CardList";
 // import { useInView } from "react-intersection-observer";
 // import { motion, useAnimation } from "framer-motion";
 
-
 const FeatureSectionOne = () => {
   // const animationControl = useAnimation();
 

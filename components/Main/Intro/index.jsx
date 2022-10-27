@@ -22,7 +22,6 @@ const contentVariants = {
 };
 
 const Intro = () => {
-
   return (
     <div className="pt-10 bg-[#0A2640] sm:pt-16 pb-16 lg:pt-8 lg:pb-14 lg:overflow-hidden">
       <motion.div

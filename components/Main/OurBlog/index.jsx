@@ -3,8 +3,6 @@ import Image from "next/image";
 import Heading from "./Heading";
 import Grid from "./Grid";
 
-
-
 const OurBlog = () => {
   return (
     <div className="relative bg-white pt-16 sm:pt-24 lg:pt-32">

@@ -38,16 +38,16 @@ const FeatureSectionTwo = () => {
     >
       <div className="mx-auto max-w-7xl lg:px-8">
         <div className="lg:grid lg:grid-cols-2 lg:gap-8">
-         <GridRowOne 
-          variant={variant}
-          hidden="hidden"
-          animationControl={animationControl}
-         />
-        <GridRowTwo 
-          variant={variant}
-          hidden="hidden"
-          animationControl={animationControl}
-        />
+          <GridRowOne
+            variant={variant}
+            hidden="hidden"
+            animationControl={animationControl}
+          />
+          <GridRowTwo
+            variant={variant}
+            hidden="hidden"
+            animationControl={animationControl}
+          />
         </div>
       </div>
     </div>
